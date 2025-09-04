@@ -1,0 +1,5 @@
+Flask==2.3.3
+opencv-python==4.8.1.78
+google-generativeai==0.8.5
+python-dotenv==1.1.1
+numpy<2.0.0
